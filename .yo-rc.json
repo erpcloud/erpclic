@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "erpclic",
+    "packageName": "io.github.jhipster.erpclic",
+    "packageFolder": "io/github/jhipster/erpclic",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MWJkMDY4Nzk1Nzk3MTlmYWQzNGQzNzBhYTJkZjM5NDkwMjExOWE2OTU1MWJlZjVlMjI2M2VlYjMxMmVmYmE4MGY0ZTFlYmIxODg2MmM1NDEwZWNmZWFjYzE1OGU0NTJiN2VhNjJmNGVjZmE0ZDdhM2UxNmJmNjMzYmNmYTU0MDI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "erpcloud",
+  "repository-name": "erpclic"
+}
